@@ -1,0 +1,4 @@
+[submodule "hyggehld"]
+	path = hyggehld
+	url = git@git.vauxoo.com:vauxoo/hyggehld.git
+	branch = 16.0
